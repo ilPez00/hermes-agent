@@ -1,3 +1,5 @@
+> **Fork attribution.** This is a fork of [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). At audit time this fork was 2 commits ahead of upstream. Original changes: see this fork's commit history. Upstream README follows.
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
